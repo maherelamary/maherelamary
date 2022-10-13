@@ -2,7 +2,7 @@
 
 I’m looking to collaborate more this year!⚡⚡
 
-My linkedIn Account[linkedIn]
+[My linkedIn Account][linkedIn]
 
 
 
