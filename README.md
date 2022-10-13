@@ -1,10 +1,10 @@
-### Hi there, It's Maher 👋
-   ### Mobile App Developer
+### Hi there, It's Maher. Mobile App Developer
+
+I’m looking to collaborate more this year!! ⚡
 
 
 
-
-
+[linkedIn]: https://www.linkedin.com/in/maher-ahmad-el-amary-4a64971a3/
 
 <!--
 **maherelamary/maherelamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
