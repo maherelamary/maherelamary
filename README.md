@@ -1,11 +1,7 @@
-### Hello there 👋, It's Maher. 
+# Hello there 👋, It's Maher. 
 ## Mobile Applications Developer | FLUTTER | DART | Problem-solving.
-# +4yrs hands dirty with mobile development life cycle.
-you can reach me through:
-### [LinkedIn Account][linkedIn]
-
-
-
+### +4yrs hands dirty with mobile development life cycle.
+#### you can reach me through: ### [LinkedIn Account][linkedIn]
 [linkedIn]: https://www.linkedin.com/in/maher-ahmad-el-amary-4a64971a3/
 
 <!--
