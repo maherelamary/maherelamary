@@ -1,7 +1,7 @@
-### Hi there, It's Maher. Mobile App Developer
-
-I’m looking to collaborate more this year!⚡⚡
-
+### Hello there 👋, It's Maher. 
+## Mobile Applications Developer | FLUTTER | DART | Problem-solving.
+# +4yrs hands dirty with mobile development life cycle.
+you can reach me through:
 ### [LinkedIn Account][linkedIn]
 
 
