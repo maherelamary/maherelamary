@@ -1,8 +1,10 @@
 # Hello there 👋, It's Maher. 
-## Mobile Applications Developer | FLUTTER | DART | Problem-solving.
+## Mobile Applications Developer | FLUTTER | DART | ANDRIOD | iOS | Problem-solving.
 ### +4yrs hands dirty with mobile development life cycle.
-#### you can reach me through: ### [LinkedIn Account][linkedIn]
+### Curious about implementing high-quality products.
+#### you can reach me through:  [My LinkedIn Account][linkedIn]
 [linkedIn]: https://www.linkedin.com/in/maher-ahmad-el-amary-4a64971a3/
+
 
 <!--
 **maherelamary/maherelamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
